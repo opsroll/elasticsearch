@@ -1,0 +1,2 @@
+# elasticsearch
+Installs Elastic Search.
